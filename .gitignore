@@ -1,3 +1,8 @@
-#VSCode Ignore
+#VSCode
 *.code-workspace
 .vscode/
+
+# Jekyll Stuff
+_site
+.sass-cache
+.jekyll-metadata
