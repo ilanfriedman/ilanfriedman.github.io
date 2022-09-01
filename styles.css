@@ -1,0 +1,27 @@
+:root {
+	--navcolor: black;
+}
+
+body, html {
+	margin: 0;
+}
+
+#navbar a {
+	font-style: normal;
+	color: var(--navcolor);
+	text-decoration: none;
+}
+
+.nav-item {
+	display: inline-block;
+}
+
+#navbar {
+	background-color: cyan;
+}
+
+#nav-title {
+	display: inline-block;
+	font-size: 20pt;
+	width: 8em
+}
